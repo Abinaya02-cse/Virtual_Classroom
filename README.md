@@ -37,7 +37,7 @@ This AWS-hosted Virtual Classroom and Learning Platform provides an efficient an
    ```
 
 ### Project Directory Structure
-- **Main Directory**: `shamee_aws_project/`
+- **Main Directory**: `abina_aws_project/`
 - **`app.py`**: Main Flask application file.
 - **`requirements.txt`**: Lists all dependencies.
 - **`static/`**: Contains static files, such as `styles.css`.
