@@ -132,4 +132,5 @@ http://18.234.190.159:5000
 
 ### Conclusion
 The AWS-hosted Virtual Classroom and Learning Platform demonstrates the integration of AWS cloud services and Flask-based web applications to build a highly responsive virtual learning environment. This project is a robust solution for delivering and managing educational resources securely and efficiently, utilizing Git for version control and PuTTY for secure file transfers.
+DEMO LINK:https://drive.google.com/drive/folders/1TSdPawTPmU3uJqblsIn6hmzDT2U9of2F?usp=drive_link
 
